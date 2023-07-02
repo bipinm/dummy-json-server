@@ -1,0 +1,8 @@
+{
+  "verifyCredential": {
+      "value": true
+    },
+  "validateRelationshipType": {
+    "valid": true
+  }
+}
