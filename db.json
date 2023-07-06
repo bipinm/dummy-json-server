@@ -1,4 +1,6 @@
 {
+  "storeCredential": {
+  },
   "verifyCredential": {
     "value": true
   },
